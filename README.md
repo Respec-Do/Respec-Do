@@ -30,9 +30,9 @@
   </h2>
   <div>
     
-  |Version|IDE|Framework|ORM|
-  |-------|---|---------|---|
-  |<img src="https://img.shields.io/badge/python%203.10-3670A0?style=flat&logo=python&logoColor=ffdd54" />|<img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green" /><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" />|<img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" /><img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray" />|<img src="https://img.shields.io/badge/django%20ORM-ff1709?style=flat&logo=django&logoColor=white" />|
+  |Version|IDE|Framework|ORM|Tool|
+  |-------|---|---------|---|----|
+  |<img src="https://img.shields.io/badge/python%203.10-3670A0?style=flat&logo=python&logoColor=ffdd54" />|<img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green" /><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" />|<img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" /><img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray" />|<img src="https://img.shields.io/badge/django%20ORM-ff1709?style=flat&logo=django&logoColor=white" />|<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white" /><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white" />|
   </div><br>
   <div>
     <h2>
